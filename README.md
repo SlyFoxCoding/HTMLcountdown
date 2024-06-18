@@ -9,7 +9,6 @@ This is a simple web project that displays a countdown to your birthday. It incl
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
